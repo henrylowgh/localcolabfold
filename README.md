@@ -10,7 +10,7 @@ LocalColabFold is an installer script designed to make ColabFold functionality a
 
 ## Advantages of LocalColabFold
 
-- **Structure inference and relaxation will be accelerated if your PC has Nvidia GPU and CUDA drivers.**
+- **Structure inference and relaxation will be accelerated if your PC has Nvidia GPU and CUDA drivers.** 
 - **No Time out (90 minutes and 12 hours)**
 - **No GPU limitations**
 - **NOT necessary to prepare the large database required for native AlphaFold2**.
