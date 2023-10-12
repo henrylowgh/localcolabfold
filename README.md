@@ -2,7 +2,7 @@
 
 [ColabFold](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb) on your local PC (or macOS). See also [ColabFold repository](https://github.com/sokrypton/ColabFold).
 
-## What is LocalColabFold?
+## What is LocalColabFold? 
 
 LocalColabFold is an installer script designed to make ColabFold functionality available on users' local machines. It supports wide range of operating systems, such as Windows 10 or later (using Windows Subsystem for Linux 2), macOS, and Linux.
 
